@@ -398,25 +398,33 @@ label>img {
 .world-img_img1 {
 	top: 0px;
 	left: 0;
+	width: 220px;
+	height: 309px;
 }
 
 .world-img_img2 {
+	width: 220px;
+	height: 184px;
 	top: 55px;
 	right: 55px;
 }
 
 .world-img_img3 {
+	height: 184px;
+	width: 220px;
 	bottom: 85px;
 	left: 0px;
 }
 
 .world-img_img4 {
+	width: 220px;
+	height: 309px;
 	bottom: 35px;
 	right: 55px;
 }
 
 .world-text {
-	width: 100%;
+	width: 45%;
 }
 
 .world-title {
@@ -842,7 +850,7 @@ margin: 15px;
 	}
 
 	.world-text {
-
+		width: 100%;
 		flex-direction: column;
 		align-items: center;
 		text-align: center;
