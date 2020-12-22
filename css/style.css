@@ -1061,6 +1061,47 @@ margin: 15px;
 	}
 }
 
+@media (max-width: 420px) {
+	.container {
+		width: 320px;
+	}
+
+	.trip-one>span {
+		height: 35px;
+	}
+	.trip-nd>span {
+		height: 35px;
+	}
+
+		.world-img_img1 {
+		top: 40px;
+		left: 20px;
+		width: 130px;
+		height: 210px;
+	}
+
+	.world-img_img2 {
+		width: 130px;
+		height: 100px;
+		top: 105px;
+		right: 30px;
+	}
+
+	.world-img_img3 {
+		height: 100px;
+		width: 130px;
+		bottom: 250px;
+		left: 25px;
+	}
+
+	.world-img_img4 {
+		width: 130px;
+		height: 220px;
+		bottom: 180px;
+		right: 25px;
+	}
+}
+
 
 
 
